@@ -1,1 +1,1 @@
-int helloWorld();
+int helloWorldInit();
